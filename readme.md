@@ -22,7 +22,7 @@ This template allows you to quickly get up and running with monitoring of Ubiqui
 - 🔶 Linked with **Generic by SNMP**
 
 ## 📣 Triggers
-Items witch checks are enable by default. Those with Xs are disabled by default. You can customise your triggers to your needs per network interfaces.
+Items with checks are enable by default. Those with Xs are disabled by default. You can customise your triggers to your needs per network interfaces.
 
 From linked template:
 - ✅ High ping loss 
@@ -42,7 +42,7 @@ From this template:
 ## Supported models
 This should work with all EdgeRouters. Partial compatibility with Edgeswitches.
 
-Updated as of 2023-10-01.
+Updated as of 2023-11-01.
 - **EdgeRouter**
   - ER-X
   - ER-5 ( + poe)
